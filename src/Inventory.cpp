@@ -11,6 +11,7 @@ struct Producto {
 
 int main() {
     vector<Producto> inventario(10);
+    // vector para manejar inventario dinámico, escalabilidad
     
     // Ingresar datos de 10 productos
     for (int i = 0; i < 10; i++) {

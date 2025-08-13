@@ -3,7 +3,7 @@
 // directive to indicate that i/o possible
 #include <iostream>
 // the using directive allows us to use 
-// names from the std namespace without the std:: prefix
+// names from the std namespace without the  prefix
 using namespace std;
 // my first C++ program
 int main() {
